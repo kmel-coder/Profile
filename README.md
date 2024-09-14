@@ -13,7 +13,21 @@ online presence.
 
 Let's connect, share knowledge, and collaborate on projects that inspire growth and creativity!
 
-<p align="left"> <a href="https://www.github.com/kmel-coder" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kmelasquite" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<p align="left"> 
+  <a href="https://www.github.com/kmel-coder" target="_blank" rel="noreferrer"> 
+  <picture> 
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" title="GitHub" /> 
+  </picture> 
+    
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/kmelasquite" target="_blank" rel="noreferrer"> 
+  <picture> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="32" height="32" title="LinkedIn" />  
+  </picture> 
+  </a>
+</p>
 
 
 <!---
